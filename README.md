@@ -32,7 +32,7 @@
 
 <br clear="right"/>
 
-<h2>Day 5 - Part 1</h2>
+<h2><a href="https://adventofcode.com/2015/day/5">Day 5 - Part 1</a></h2>
 <p align="center"><img src="https://i.imgur.com/fOUlARl.png" alt="Day 5 Part 1 description img" width="95%"></p>
 
 <h3>Solution</h3>
@@ -42,12 +42,12 @@
 
 <br>
 
-<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day3_Inputs.txt">Input Directions</a></h4>
-<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day3_Part2.py">Part 1 Solution Code</a></h4>
+<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day5_Inputs.txt">Input Strings</a></h4>
+<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day5_Part1.py">Part 1 Solution Code</a></h4>
 
 <br clear="right"/>
 
-<h2>Day 5 - Part 2</h2>
+<h2><a href="https://adventofcode.com/2015/day/5">Day 5 - Part 2</a></h2>
 <p align="center"><img src="https://i.imgur.com/4l170kT.png" alt="Day 5 Part 2 description img" width="95%"></p>
 
 <h3>Solution</h3>
@@ -57,8 +57,8 @@
 
 <br>
 
-<h4><a href="">Input Directions</a></h4>
-<h4><a href="">Part 2 Solution Code</a></h4>
+<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day5_Inputs.txt">Input Strings</a></h4>
+<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day5_Part2.py">Part 2 Solution Code</a></h4>
 
 <br clear="right"/>
 
