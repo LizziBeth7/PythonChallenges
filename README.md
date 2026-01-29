@@ -31,6 +31,7 @@
 <h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day3_Part2.py">Part 2 Solution Code</a></h4>
 
 <br clear="right"/>
+<!--Day 5 -->
 
 <h2><a href="https://adventofcode.com/2015/day/5">Day 5 - Part 1</a></h2>
 <p align="center"><img src="https://i.imgur.com/fOUlARl.png" alt="Day 5 Part 1 description img" width="95%"></p>
@@ -59,6 +60,38 @@
 
 <h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day5_Inputs.txt">Input Strings</a></h4>
 <h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day5_Part2.py">Part 2 Solution Code</a></h4>
+
+<br clear="right"/>
+
+<!-- Day 6 -->
+
+<h2><a href="https://adventofcode.com/2015/day/6">Day 6 - Part 1</a></h2>
+<p align="center"><img src="https://i.imgur.com/AfcykOS.png" alt="Day 6 Part 1 description img" width="95%"></p>
+
+<h3>Solution</h3>
+
+<img src="https://i.imgur.com/ovRwnI2.png" alt="Day 6 Part 1 solution img" width="35%" align="right">
+<p>To start a set up at two dimensional array of 1000 by 1000 called 'grid' and set every value to false (all the lights start off). I then take the input and split it into lines. The lines are then split at each space. Each 'word' is then searched and if it contains a comma(,) then it is a coordinate so it is split at the comma and both numbers are added to the array 'numbers'. Then for each element of the aray 'grid' that falls between the first and second coordinates the code checks if the current line (not split into words) contains eaither 'toggle' 'turn on' or 'turn off' and the elements in that section of the array are toggled, set to true or set to false. After every line of the instructions has gone through it checks every element of the 'grid' array and counts out the ones set to true. This gives the answer of 377891.</p>
+
+<br>
+
+<h4><a href="">Input Instructions</a></h4>
+<h4><a href="">Part 1 Solution Code</a></h4>
+
+<br clear="right"/>
+
+<h2><a href="https://adventofcode.com/2015/day/6">Day 6 - Part 2</a></h2>
+<p align="center"><img src="https://i.imgur.com/TQlbH9M.png" alt="Day 6 Part 2 description img" width="95%"></p>
+
+<h3>Solution</h3>
+
+<img src="https://i.imgur.com/IAwCPVl.png" alt="Day 6 Part 2 solution img" width="35%" align="right">
+<p>I began part 2 the same way with a two dimensional array of 1000 by 1000 but instead of booleans each element is set to the int 0. The instructions and coordinates are split apart in the same way. Then when looping through each element between the given coordinates, depending on if the line contains 'toggle', 'turn on' or 'turn off' the element adds 2, 1 or subtracts 1. As the lights are not allowed to be negative there is a final check that if the current element is below 0 it is reset to 0. After all the instructions are completed each element of the array 'grid' are added together, giving a final brightness of 14110788.</p>
+
+<br>
+
+<h4><a href="">Input Instructions</a></h4>
+<h4><a href="">Part 2 Solution Code</a></h4>
 
 <br clear="right"/>
 
