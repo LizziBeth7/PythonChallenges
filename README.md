@@ -75,8 +75,8 @@
 
 <br>
 
-<h4><a href="">Input Instructions</a></h4>
-<h4><a href="">Part 1 Solution Code</a></h4>
+<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day6_Inputs.txt">Input Instructions</a></h4>
+<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day6_Part1.py">Part 1 Solution Code</a></h4>
 
 <br clear="right"/>
 
@@ -90,8 +90,8 @@
 
 <br>
 
-<h4><a href="">Input Instructions</a></h4>
-<h4><a href="">Part 2 Solution Code</a></h4>
+<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day6_Inputs.txt">Input Instructions</a></h4>
+<h4><a href="https://github.com/LizziBeth7/PythonChallenges/blob/main/Day6_Part2.py">Part 2 Solution Code</a></h4>
 
 <br clear="right"/>
 
